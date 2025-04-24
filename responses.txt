@@ -1,0 +1,471 @@
+
+> autokelly-actor@0.0.1 start
+> node src/main.js
+
+[32mINFO[39m  System info[90m {"apifyVersion":"3.2.6","apifyClientVersion":"2.11.1","crawleeVersion":"3.12.2","osType":"Darwin","nodeVersion":"v22.13.1"}[39m
+[32mINFO[39m [33m CheerioCrawler:[39m Starting the crawler.
+20
+[
+  'ASP.NET_SessionId=qt533zi5zq3stsakx5bylvjc; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=qt533zi5zq3stsakx5bylvjc; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:58 GMT; path=/; secure; SameSite=None'
+]
+qt533zi5zq3stsakx5bylvjc
+[
+  'ASP.NET_SessionId=emayfl3itmnehvhtv3naee4w; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=emayfl3itmnehvhtv3naee4w; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:58 GMT; path=/; secure; SameSite=None',
+  '__RequestVerificationToken=ELzHHvZUq3bxh3Z2jQt8m8Gr_G3acA_33k41DOVSv4bw0Zy8hDdjAEa2BjIbBY7i5-tWjIkBOuJD4idVWNpec7m3MNnWwvi-qdpWNNQjLdI1; path=/; secure; HttpOnly'
+]
+emayfl3itmnehvhtv3naee4w
+[
+  'ASP.NET_SessionId=sutzmlblokejgvkat2jm0raj; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=sutzmlblokejgvkat2jm0raj; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:58 GMT; path=/; secure; SameSite=None'
+]
+sutzmlblokejgvkat2jm0raj
+[
+  'ASP.NET_SessionId=vfm1zztuxbfrjtpqlb3mr5bk; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=vfm1zztuxbfrjtpqlb3mr5bk; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:58 GMT; path=/; secure; SameSite=None'
+]
+vfm1zztuxbfrjtpqlb3mr5bk
+[
+  'ASP.NET_SessionId=fprjyp1pmucnxeyevskevjef; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=fprjyp1pmucnxeyevskevjef; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:58 GMT; path=/; secure; SameSite=None'
+]
+fprjyp1pmucnxeyevskevjef
+Request {
+  id: 'doqsuB3E9JQwiBO',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-18189',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=qt533zi5zq3stsakx5bylvjc',
+    referer: 'https://www.autokelly.cz/Product/99.99.990/18189?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+Request {
+  id: 'vuYWMrzPXjYVnrO',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-8382160',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=sutzmlblokejgvkat2jm0raj',
+    referer: 'https://www.autokelly.cz/Product/99.99.891/8382160?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=p0ca2im43tt2l1xpggljgvz4; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=p0ca2im43tt2l1xpggljgvz4; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:58 GMT; path=/; secure; SameSite=None'
+]
+p0ca2im43tt2l1xpggljgvz4
+Request {
+  id: 'rbF3yChXIIdVvRu',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-13030304',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=vfm1zztuxbfrjtpqlb3mr5bk',
+    referer: 'https://www.autokelly.cz/Product/99.99.895/13030304?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=psiid2fg2aluh4a1uh1uval3; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=psiid2fg2aluh4a1uh1uval3; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:58 GMT; path=/; secure; SameSite=None'
+]
+psiid2fg2aluh4a1uh1uval3
+Request {
+  id: 'aOouR5cIwqWXwCN',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-2001533',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=fprjyp1pmucnxeyevskevjef',
+    referer: 'https://www.autokelly.cz/Product/99.99.906/2001533?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=fadxisa2pbtg3ar0thby3qun; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=fadxisa2pbtg3ar0thby3qun; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+fadxisa2pbtg3ar0thby3qun
+[
+  'ASP.NET_SessionId=5ike2qczxrv0j2j1fouxnmi4; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=5ike2qczxrv0j2j1fouxnmi4; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+5ike2qczxrv0j2j1fouxnmi4
+Request {
+  id: 'EPwJJgWYgkfKf8P',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-3146',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=p0ca2im43tt2l1xpggljgvz4',
+    referer: 'https://www.autokelly.cz/Product/99.99.997/3146?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+Request {
+  id: 'I5XOCgeBEOLQj75',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-12561535',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=psiid2fg2aluh4a1uh1uval3',
+    referer: 'https://www.autokelly.cz/Product/99.99.833/12561535?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=auh3ehh5rmme1nl0vjxujbdk; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=auh3ehh5rmme1nl0vjxujbdk; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+auh3ehh5rmme1nl0vjxujbdk
+Request {
+  id: 'UOsIssVQuN5V6dh',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-1859',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=fadxisa2pbtg3ar0thby3qun',
+    referer: 'https://www.autokelly.cz/Product/99.99.996/1859?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=13mnr4ne420zocldqx2w4bo3; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=13mnr4ne420zocldqx2w4bo3; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+13mnr4ne420zocldqx2w4bo3
+Request {
+  id: 'KBUpFWaNjFyRZql',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-12420914',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=emayfl3itmnehvhtv3naee4w',
+    referer: 'https://www.autokelly.cz/Product/OS-64210NL-HCB/12420914?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=5b44zfifnccuomttk0guubm0; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=5b44zfifnccuomttk0guubm0; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+5b44zfifnccuomttk0guubm0
+Request {
+  id: 'I1MAGhH157dvYuE',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-1858',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=5ike2qczxrv0j2j1fouxnmi4',
+    referer: 'https://www.autokelly.cz/Product/99.99.995/1858?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=u41iwwnukv4d1ajeqxo4sz4a; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=u41iwwnukv4d1ajeqxo4sz4a; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+u41iwwnukv4d1ajeqxo4sz4a
+Request {
+  id: 'nleLDizfjFTqwGN',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-1855',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=auh3ehh5rmme1nl0vjxujbdk',
+    referer: 'https://www.autokelly.cz/Product/99.99.992/1855?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=diuqhg1hfmyejvzvzur54wvo; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=diuqhg1hfmyejvzvzur54wvo; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+diuqhg1hfmyejvzvzur54wvo
+[
+  'ASP.NET_SessionId=exmfqqb1blmo1tlp0hhnemte; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=exmfqqb1blmo1tlp0hhnemte; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+exmfqqb1blmo1tlp0hhnemte
+Request {
+  id: '0rSYFqva0LES7J1',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-8382162',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=13mnr4ne420zocldqx2w4bo3',
+    referer: 'https://www.autokelly.cz/Product/99.99.892/8382162?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=wakmjqmpado013akz2at5elh; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=wakmjqmpado013akz2at5elh; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+wakmjqmpado013akz2at5elh
+Request {
+  id: 'VcIv3mWQJAfyQPN',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-8382159',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=5b44zfifnccuomttk0guubm0',
+    referer: 'https://www.autokelly.cz/Product/99.99.890/8382159?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=4bnyxuasc44zpmfpgqzwd14p; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=4bnyxuasc44zpmfpgqzwd14p; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+4bnyxuasc44zpmfpgqzwd14p
+[
+  'ASP.NET_SessionId=icioj1hqmhemf024wjtw54ug; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=icioj1hqmhemf024wjtw54ug; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+icioj1hqmhemf024wjtw54ug
+Request {
+  id: '9SozpG7kjc8oIMN',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-12561536',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=u41iwwnukv4d1ajeqxo4sz4a',
+    referer: 'https://www.autokelly.cz/Product/99.99.834/12561536?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=g14uasaw5foxg10pxt5cwtyt; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=g14uasaw5foxg10pxt5cwtyt; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+g14uasaw5foxg10pxt5cwtyt
+Request {
+  id: '0folKN14h0zsNz4',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-1856',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=diuqhg1hfmyejvzvzur54wvo',
+    referer: 'https://www.autokelly.cz/Product/99.99.993/1856?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+Request {
+  id: '1a9l2TVboLKesa9',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-12561534',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=exmfqqb1blmo1tlp0hhnemte',
+    referer: 'https://www.autokelly.cz/Product/99.99.832/12561534?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[
+  'ASP.NET_SessionId=vg5nb4z4mveyupbizk2twpzr; path=/; secure; HttpOnly; SameSite=Lax',
+  'ASP.NET_SessionId=vg5nb4z4mveyupbizk2twpzr; path=/; secure; HttpOnly; SameSite=Lax',
+  'LKQEshop=CatalogSwitchViewType=Row&Login=False; expires=Wed, 04-Feb-2026 21:01:59 GMT; path=/; secure; SameSite=None'
+]
+vg5nb4z4mveyupbizk2twpzr
+Request {
+  id: 'F87c1S3Wf5bs3PK',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-1857',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=wakmjqmpado013akz2at5elh',
+    referer: 'https://www.autokelly.cz/Product/99.99.994/1857?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+Request {
+  id: 'UtDSyLtyAUopYLT',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-12123947',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=4bnyxuasc44zpmfpgqzwd14p',
+    referer: 'https://www.autokelly.cz/Product/99.99.942/12123947?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+Request {
+  id: 'UnL9nvNNIzeEQMB',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-12164424',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=icioj1hqmhemf024wjtw54ug',
+    referer: 'https://www.autokelly.cz/Product/99.99.944/12164424?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+Request {
+  id: '8RQBGfXvVJEDTjK',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-12164423',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=g14uasaw5foxg10pxt5cwtyt',
+    referer: 'https://www.autokelly.cz/Product/99.99.927/12164423?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+Request {
+  id: 'L3KQEEoxxf8WQKU',
+  url: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  loadedUrl: 'https://www.autokelly.cz/ProductList/Items/Substitutes/1',
+  uniqueKey: 'substitutes-zarovky-12123954',
+  method: 'POST',
+  payload: undefined,
+  noRetry: false,
+  retryCount: 0,
+  errorMessages: [],
+  headers: {
+    cookie: 'ASP.NET_SessionId=vg5nb4z4mveyupbizk2twpzr',
+    referer: 'https://www.autokelly.cz/Product/99.99.943/12123954?path=39849642;38957081;38908605'
+  },
+  userData: [Getter/Setter],
+  handledAt: undefined
+}
+[32mINFO[39m [33m CheerioCrawler:[39m All requests from the queue have been processed, the crawler will shut down.
+[32mINFO[39m [33m CheerioCrawler:[39m Final request statistics:[90m {"requestsFinished":62,"requestsFailed":0,"retryHistogram":[62],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":186,"requestsFinishedPerMinute":1539,"requestsFailedPerMinute":0,"requestTotalDurationMillis":11559,"requestsTotal":62,"crawlerRuntimeMillis":2417}[39m
+[32mINFO[39m [33m CheerioCrawler:[39m Finished! Total 62 requests: 62 succeeded, 0 failed.[90m {"terminal":true}[39m

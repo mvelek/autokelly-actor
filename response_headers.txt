@@ -1,0 +1,136 @@
+
+> autokelly-actor@0.0.1 start
+> node src/main.js
+
+[32mINFO[39m  System info[90m {"apifyVersion":"3.2.6","apifyClientVersion":"2.11.1","crawleeVersion":"3.12.2","osType":"Darwin","nodeVersion":"v22.13.1"}[39m
+[32mINFO[39m [33m CheerioCrawler:[39m Starting the crawler.
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+20
+{ Page: 1, Size: 20, Total: 4, TotalCount: 79 }
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+substitutes-manzety-poloos-13272428
+substitutes-manzety-poloos-3770883
+substitutes-manzety-poloos-11965309
+substitutes-manzety-poloos-13272431
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+substitutes-manzety-poloos-13272438
+substitutes-manzety-poloos-13272437
+substitutes-manzety-poloos-13272427
+substitutes-manzety-poloos-13272532
+substitutes-manzety-poloos-13272425
+substitutes-manzety-poloos-13272430
+substitutes-manzety-poloos-2134382
+substitutes-manzety-poloos-13272435
+substitutes-manzety-poloos-13272432
+substitutes-manzety-poloos-13272429
+substitutes-manzety-poloos-13272424
+substitutes-manzety-poloos-13272436
+substitutes-manzety-poloos-13272433
+substitutes-manzety-poloos-13272434
+substitutes-manzety-poloos-13272426
+substitutes-manzety-poloos-2786917
+20
+{ Page: 2, Size: 20, Total: 4, TotalCount: 79 }
+substitutes-manzety-poloos-13272434
+substitutes-manzety-poloos-13272437
+substitutes-manzety-poloos-13272424
+substitutes-manzety-poloos-13272433
+substitutes-manzety-poloos-2786917
+substitutes-manzety-poloos-13272431
+substitutes-manzety-poloos-13272532
+substitutes-manzety-poloos-13272430
+substitutes-manzety-poloos-3770883
+substitutes-manzety-poloos-13272428
+substitutes-manzety-poloos-13272429
+substitutes-manzety-poloos-13272426
+substitutes-manzety-poloos-13272436
+substitutes-manzety-poloos-13272438
+substitutes-manzety-poloos-2134382
+substitutes-manzety-poloos-13272435
+substitutes-manzety-poloos-13272427
+substitutes-manzety-poloos-13272432
+substitutes-manzety-poloos-13272425
+substitutes-manzety-poloos-11965309
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+20
+{ Page: 3, Size: 20, Total: 4, TotalCount: 79 }
+substitutes-manzety-poloos-12158494
+substitutes-manzety-poloos-8674552
+substitutes-manzety-poloos-12491158
+substitutes-manzety-poloos-12343918
+substitutes-manzety-poloos-8999064
+substitutes-manzety-poloos-8999057
+substitutes-manzety-poloos-8999060
+substitutes-manzety-poloos-8999059
+substitutes-manzety-poloos-8999062
+substitutes-manzety-poloos-8999061
+substitutes-manzety-poloos-8999065
+substitutes-manzety-poloos-8999803
+substitutes-manzety-poloos-10594074
+substitutes-manzety-poloos-13276456
+substitutes-manzety-poloos-8999058
+substitutes-manzety-poloos-8999056
+substitutes-manzety-poloos-8999804
+substitutes-manzety-poloos-8674553
+substitutes-manzety-poloos-8999063
+substitutes-manzety-poloos-10594073
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+19
+{ Page: 4, Size: 20, Total: 4, TotalCount: 79 }
+substitutes-manzety-poloos-12916739
+substitutes-manzety-poloos-12851500
+substitutes-manzety-poloos-230897
+substitutes-manzety-poloos-230901
+substitutes-manzety-poloos-12916737
+substitutes-manzety-poloos-230899
+substitutes-manzety-poloos-230894
+substitutes-manzety-poloos-230893
+substitutes-manzety-poloos-230898
+substitutes-manzety-poloos-12072931
+substitutes-manzety-poloos-12916738
+substitutes-manzety-poloos-230892
+substitutes-manzety-poloos-230900
+substitutes-manzety-poloos-12917123
+substitutes-manzety-poloos-230895
+substitutes-manzety-poloos-12072930
+substitutes-manzety-poloos-12851501
+substitutes-manzety-poloos-230896
+substitutes-manzety-poloos-230891
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+here 1
+ASP.NET_SessionId=cmgpe10svucxiuhjbkf1hcq0
+here 2
+undefined
+[32mINFO[39m [33m CheerioCrawler:Statistics:[39m CheerioCrawler request statistics:[90m {"requestAvgFailedDurationMillis":1289,"requestAvgFinishedDurationMillis":1673,"requestsFinishedPerMinute":6,"requestsFailedPerMinute":46,"requestTotalDurationMillis":70629,"requestsTotal":53,"crawlerRuntimeMillis":60011,"retryHistogram":[5,1,null,47]}[39m
+[32mINFO[39m [33m CheerioCrawler:AutoscaledPool:[39m state[90m {"currentConcurrency":12,"desiredConcurrency":13,"systemStatus":{"isSystemIdle":true,"memInfo":{"isOverloaded":false,"limitRatio":0.2,"actualRatio":0},"eventLoopInfo":{"isOverloaded":false,"limitRatio":0.7,"actualRatio":0},"cpuInfo":{"isOverloaded":false,"limitRatio":0.4,"actualRatio":0},"clientInfo":{"isOverloaded":false,"limitRatio":0.3,"actualRatio":0}}}[39m
+[32mINFO[39m [33m CheerioCrawler:[39m All requests from the queue have been processed, the crawler will shut down.
+[32mINFO[39m [33m CheerioCrawler:[39m Final request statistics:[90m {"requestsFinished":6,"requestsFailed":59,"retryHistogram":[5,1,null,59],"requestAvgFailedDurationMillis":1203,"requestAvgFinishedDurationMillis":1673,"requestsFinishedPerMinute":6,"requestsFailedPerMinute":57,"requestTotalDurationMillis":81039,"requestsTotal":65,"crawlerRuntimeMillis":61544}[39m
+[32mINFO[39m [33m CheerioCrawler:[39m Error analysis:[90m {"totalErrors":59,"uniqueErrors":1,"mostCommonErrors":["59x: Unexpected end of JSON input (<anonymous>)"]}[39m
+[32mINFO[39m [33m CheerioCrawler:[39m Finished! Total 65 requests: 6 succeeded, 59 failed.[90m {"terminal":true}[39m
