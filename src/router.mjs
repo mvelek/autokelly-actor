@@ -93,50 +93,50 @@ for (const url of urls.urls) {
                         .split("=")[1]
                         .split(";")[0];
 
-                    await addRequests([
-                        {
-                            url: `https://www.autokelly.cz/Product/Codes/${item.Id}`,
-                            method: "POST",
-                            label: `codes-${category}`,
-                            headers: request.headers,
-                            uniqueKey: `codes-${category}-${item.Id}`,
-                            userData: {
-                                itemId: item.Id,
-                                categoryKey: request.userData.categoryKey,
-                            },
-                        },
-                        {
-                            url: `https://www.autokelly.cz/ProductList/Items/Substitutes/1`,
-                            method: "POST",
-                            label: `substitutes-${category}`,
-                            headers: {
-                                // "Content-Type": "application/json",
-                                // accept: "application/json",
-                                // "content-length": 0,
-                                cookie: `ASP.NET_SessionId=${substSessionId}`,
-                                referer: `https://www.autokelly.cz/Product/${codeNoSpaces}/${item.Id}?path=${request.userData.categoryKey}`,
-                            },
-                            uniqueKey: `substitutes-${category}-${item.Id}`,
-                            userData: {
-                                itemId: item.Id,
-                                categoryKey: request.userData.categoryKey,
-                            },
-                        },
-                        {
-                            url: `https://www.autokelly.cz/Product/StoragesAll/${item.Id}`,
-                            method: "POST",
-                            label: `storages-${category}`,
-                            headers: {
-                                ...request.headers,
-                                referer: `https://www.autokelly.cz/Product/${codeNoSpaces}/${item.Id}?path=${request.userData.categoryKey}`,
-                            },
-                            uniqueKey: `storages-${category}-${item.Id}`,
-                            userData: {
-                                itemId: item.Id,
-                                categoryKey: request.userData.categoryKey,
-                            },
-                        },
-                    ]);
+                    // await addRequests([
+                    //     {
+                    //         url: `https://www.autokelly.cz/Product/Codes/${item.Id}`,
+                    //         method: "POST",
+                    //         label: `codes-${category}`,
+                    //         headers: request.headers,
+                    //         uniqueKey: `codes-${category}-${item.Id}`,
+                    //         userData: {
+                    //             itemId: item.Id,
+                    //             categoryKey: request.userData.categoryKey,
+                    //         },
+                    //     },
+                    //     {
+                    //         url: `https://www.autokelly.cz/ProductList/Items/Substitutes/1`,
+                    //         method: "POST",
+                    //         label: `substitutes-${category}`,
+                    //         headers: {
+                    //             // "Content-Type": "application/json",
+                    //             // accept: "application/json",
+                    //             // "content-length": 0,
+                    //             cookie: `ASP.NET_SessionId=${substSessionId}`,
+                    //             referer: `https://www.autokelly.cz/Product/${codeNoSpaces}/${item.Id}?path=${request.userData.categoryKey}`,
+                    //         },
+                    //         uniqueKey: `substitutes-${category}-${item.Id}`,
+                    //         userData: {
+                    //             itemId: item.Id,
+                    //             categoryKey: request.userData.categoryKey,
+                    //         },
+                    //     },
+                    //     {
+                    //         url: `https://www.autokelly.cz/Product/StoragesAll/${item.Id}`,
+                    //         method: "POST",
+                    //         label: `storages-${category}`,
+                    //         headers: {
+                    //             ...request.headers,
+                    //             referer: `https://www.autokelly.cz/Product/${codeNoSpaces}/${item.Id}?path=${request.userData.categoryKey}`,
+                    //         },
+                    //         uniqueKey: `storages-${category}-${item.Id}`,
+                    //         userData: {
+                    //             itemId: item.Id,
+                    //             categoryKey: request.userData.categoryKey,
+                    //         },
+                    //     },
+                    // ]);
                 }
                 const pageNumber = json.Paging.Page + 1;
 
